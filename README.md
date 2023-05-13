@@ -11,7 +11,7 @@
 
 - 👨‍💻 Website design and e-commerce.
 
-- ⚡ Fun fact [My mother was surprised when she returned from work and found out that I had installed Linux on pc of home(did´t know backup terms))](My mother was surprised when she returned from work and found out that I had installed Linux on pc of home(did´t know backup terms)))
+- ⚡ Fun fact [My mother was surprised when she returned from work and found out that I had installed Linux on pc of home(did´t know backup terms)]
 
 - 🌱 I’m currently learning new ways to build solutions **that uses automation mainly**
 
