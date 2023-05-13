@@ -3,7 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavocs97&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocs97" /> </p>
 
+- 🙋‍♂️ Marketer with a passion for growth, [my own website is](builtbygus.com)
+
+- 💰 Sales & revenue and administration management.
+
+- 🎯 Specialized in digital & traditional marketing.
+
+- 👨‍💻 Website design and e-commerce.
+
 - ⚡ Fun fact [My mother was surprised when she returned from work and found out that I had installed Linux on pc of home(did´t know backup terms))](My mother was surprised when she returned from work and found out that I had installed Linux on pc of home(did´t know backup terms)))
+
+- 🌱 I’m currently learning new ways to build solutions **that uses automation mainly**
 
 - 📫 How to reach me? WhatsApp **🇵🇹 +351 967 091 156**
 
