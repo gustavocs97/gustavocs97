@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavocs97&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocs97" /> </p>
 
-- 🙋‍♂️ Marketer with a passion for growth, [my own website is](builtbygus.com)
+- 🙋‍♂️ Marketer with a passion for growth, [my own website is] https://builtbygus.com
 
 - 💰 Sales & revenue and administration management.
 
