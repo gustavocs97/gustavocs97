@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A passionate Digital Marketeer from Brazil, living in Portugal.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=gustavocs97&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocs97" />
-</p>
+<div align="left" style="display: flex; align-items: center;">
+  <a style="margin-right: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=gustavocs97&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocs97" />
+  </a>
+  <a href="https://codepen.io/">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+</div>
+
+
 
 <div align="left">
   <a href="https://tuamarca.com">
@@ -15,6 +22,7 @@
   <a href="https://tuamarca.com">
     <img src="https://badges.pufler.dev/gists/gustavocs97" alt="Gists Badge" style="display: inline-block;" />
   </a>
+
 </div>
 
 
@@ -50,6 +58,7 @@
   
 
 <br/>  
+
 
 
 
@@ -254,16 +263,74 @@
           <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" /></a>  
     </div>
   </div>
-
-
-
-
-
-  
 </div>
 
 
 
+
+  <!-- badges-section -->
+
+<div class="badges-section">
+  <h2>Badges</h2>
+  
+  <p align="left">
+    <a href="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+    </a>
+    <a href="https://www.google.com/chrome">
+      <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Google Chrome" />
+    </a>
+    <a href="https://nextcloud.com/">
+      <img src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white" alt="Next Cloud" />
+    </a>
+    <a href="https://pocketbase.io/">
+      <img src="https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black" alt="PocketBase" />
+    </a>
+    <a href="https://supabase.io/">
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+    </a>
+    <a href="https://www.canva.com/">
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+    </a>
+    <a href="https://www.sketchup.com/">
+      <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="Sketch Up" />
+    </a>
+    <a href="https://getbootstrap.com/">
+      <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    </a>
+    <a href="https://developer.nvidia.com/cuda-zone">
+      <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green" alt="nVIDIA" />
+    </a>
+    <a href="https://www.elastic.co/elasticsearch/">
+      <img src="https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+    </a>
+    <a href="https://www.electronjs.org/">
+      <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron.js" />
+    </a>
+    <a href="https://fastapi.tiangolo.com/">
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+    </a>
+    <a href="https://insomnia.rest/">
+      <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Insomnia" />
+    </a>
+    <a href="https://strapi.io/">
+      <img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white" alt="Strapi" />
+    </a>
+    <a href="https://greensock.com/">
+      <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="Green Sock" />
+    </a>
+    <a href="https://www.npmjs.com/">
+      <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+    </a>
+    <a href="https://scrapy.org/">
+      <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" />
+    </a>
+
+
+
+    
+  </p>
+</div>
 
 
 
