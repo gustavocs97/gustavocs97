@@ -33,16 +33,28 @@
 - 📫 How to reach me? WhatsApp **🇵🇹 +351 967 091 156**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gustavoccsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavoccsilva" height="30" width="40" /></a>
-<a href="https://fb.com/gustavoccsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavoccsilva" height="30" width="40" /></a>
-<a href="https://instagram.com/gus.tavocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gus.tavocs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gus.tavocs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gus.tavocs" height="30" width="40" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/gustavocs97" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/gustavoccsilva" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/gustavoccsilva" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/gus.tavocs" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=“A%20programmer%20is%20someone%20who%20solves%20problems%20you%20don’t%20understand%20in%20ways%20you%20don’t%20comprehend.”&author=Anonymous)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavocs97" alt="gustavocs97" /></a> </p>
 
@@ -220,6 +232,9 @@
       </a>
       <a href="https://www.photoshop.com/en" class="tech-item" title="Adobe Photoshop">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+      </a>
+      <a href="https://www.adobe.com/in/products/xd.html" class="tech-item" title="Adobe XD">
+        <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" width="40" height="40" />
       </a>
     </div>
   </div>
