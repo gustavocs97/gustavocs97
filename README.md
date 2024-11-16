@@ -54,7 +54,13 @@
 
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=“A%20programmer%20is%20someone%20who%20solves%20problems%20you%20don’t%20understand%20in%20ways%20you%20don’t%20comprehend.”&author=Anonymous)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<p align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%E2%80%9CA%20programmer%20is%20someone%20who%20solves%20problems%20you%20don%E2%80%99t%20understand%20in%20ways%20you%20don%E2%80%99t%20comprehend.%E2%80%9D&author=Anonymous" alt="Readme Quotes" />
+    </a>
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavocs97" alt="gustavocs97" /></a> </p>
 
@@ -104,12 +110,11 @@
       <a href="https://reactnative.dev/" class="tech-item" title="React Native">
         <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
       </a>
-      <a href="https://nextjs.org/" class="tech-item" title="Next.js">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-      </a>
+      <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  
       <a href="https://nuxtjs.org/" class="tech-item" title="Nuxt.js">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
       </a>
+      <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="40" /></a>        
       <a href="https://tailwindcss.com/" class="tech-item" title="Tailwind CSS">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
       </a>
@@ -120,11 +125,9 @@
   <div class="tech-section">
     <h2>Backend & Frameworks</h2>
     <div class="tech-grid">
-      <a href="https://nodejs.org" class="tech-item" title="Node.js">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
+      <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
       <a href="https://expressjs.com" class="tech-item" title="Express.js">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/openjs-foundation/artwork/ac43961d1157f973c54f210cf5e0c9c45e3d3f10/projects/express/express-hex-sticker.svg" alt="express" width="40" height="40"/>
       </a>
       <a href="https://appwrite.io" class="tech-item" title="Appwrite">
         <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
@@ -151,6 +154,7 @@
       <a href="https://redis.io" class="tech-item" title="Redis">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
       </a>
+      <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="40" /></a>  
     </div>
   </div>
 
@@ -198,6 +202,7 @@
       <a href="https://www.rabbitmq.com" class="tech-item" title="RabbitMQ">
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
       </a>
+      <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a>        
     </div>
   </div>
 
@@ -227,17 +232,34 @@
       <a href="https://www.figma.com/" class="tech-item" title="Figma">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
+      <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="40" /></a>  
       <a href="https://www.adobe.com/in/products/illustrator.html" class="tech-item" title="Adobe Illustrator">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
       </a>
-      <a href="https://www.photoshop.com/en" class="tech-item" title="Adobe Photoshop">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-      </a>
       <a href="https://www.adobe.com/in/products/xd.html" class="tech-item" title="Adobe XD">
         <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" width="40" height="40" />
-      </a>
+      </a> 
+      <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="40" /></a>  
+      <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="40" /></a>  
+      <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="40" /></a>  
+      <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" /></a>        
     </div>
   </div>
+
+  <!-- web -->
+  <div class="tech-section">
+    <h2>Web</h2>
+    <div class="tech-grid">
+          <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a>  
+          <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" /></a>  
+    </div>
+  </div>
+
+
+
+
+
+  
 </div>
 
 
