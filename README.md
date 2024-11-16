@@ -171,6 +171,15 @@
   <div class="tech-section">
     <h2>DevOps & Infraestrutura</h2>
     <div class="tech-grid">
+      <a href="https://www.cloudflare.com">
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" style="display: inline-block; margin-right: 10px;" />
+      </a>
+      <a href="https://www.ovh.com">
+        <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D" alt="OVH" style="display: inline-block; margin-right: 10px;" />
+      </a>
+      <a href="https://www.proxmox.com">
+        <img src="https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33" alt="Proxmox" style="display: inline-block;" />
+      </a>      
       <a href="https://aws.amazon.com" class="tech-item" title="AWS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
       </a>
@@ -260,7 +269,7 @@
     <h2>Web</h2>
     <div class="tech-grid">
           <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a>  
-          <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" /></a>  
+          <a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="40" /></a>
     </div>
   </div>
 </div>
@@ -271,7 +280,7 @@
   <!-- badges-section -->
 
 <div class="badges-section">
-  <h2>Badges</h2>
+  <h2>Outros</h2>
   
   <p align="left">
     <a href="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
