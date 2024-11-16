@@ -57,10 +57,16 @@
 
 
 <div class="container">
-  <!-- Linguagens de Programação -->
+  <!-- Linguagens Base -->
   <div class="tech-section">
-    <h2>Linguagens de Programação</h2>
+    <h2>Linguagens Base</h2>
     <div class="tech-grid">
+      <a href="https://www.w3.org/html/" class="tech-item" title="HTML5">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      </a>
+      <a href="https://www.w3schools.com/css/" class="tech-item" title="CSS3">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" class="tech-item" title="JavaScript">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
       </a>
@@ -76,22 +82,16 @@
     </div>
   </div>
 
-  <!-- Frontend -->
+  <!-- Frameworks & Bibliotecas Frontend -->
   <div class="tech-section">
-    <h2>Frontend</h2>
+    <h2>Frameworks & Bibliotecas Frontend</h2>
     <div class="tech-grid">
-      <a href="https://www.w3.org/html/" class="tech-item" title="HTML5">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" class="tech-item" title="CSS3">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
       <a href="https://reactjs.org/" class="tech-item" title="React">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
       </a>
-      <a href="https://reactnative.dev/" target="_blank" rel="ReactNative"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-      </a>      
+      <a href="https://reactnative.dev/" class="tech-item" title="React Native">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+      </a>
       <a href="https://nextjs.org/" class="tech-item" title="Next.js">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
       </a>
@@ -104,9 +104,9 @@
     </div>
   </div>
 
-  <!-- Backend & Runtime -->
+  <!-- Backend & Frameworks -->
   <div class="tech-section">
-    <h2>Backend & Runtime</h2>
+    <h2>Backend & Frameworks</h2>
     <div class="tech-grid">
       <a href="https://nodejs.org" class="tech-item" title="Node.js">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -114,12 +114,15 @@
       <a href="https://expressjs.com" class="tech-item" title="Express.js">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
       </a>
+      <a href="https://appwrite.io" class="tech-item" title="Appwrite">
+        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
+      </a>
     </div>
   </div>
 
-  <!-- Bancos de Dados -->
+  <!-- Bancos de Dados & Cache -->
   <div class="tech-section">
-    <h2>Bancos de Dados</h2>
+    <h2>Bancos de Dados & Cache</h2>
     <div class="tech-grid">
       <a href="https://www.postgresql.org" class="tech-item" title="PostgreSQL">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
@@ -139,9 +142,9 @@
     </div>
   </div>
 
-  <!-- DevOps & Cloud -->
+  <!-- DevOps & Infraestrutura -->
   <div class="tech-section">
-    <h2>DevOps & Cloud</h2>
+    <h2>DevOps & Infraestrutura</h2>
     <div class="tech-grid">
       <a href="https://aws.amazon.com" class="tech-item" title="AWS">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -152,15 +155,18 @@
       <a href="https://www.nginx.com" class="tech-item" title="Nginx">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
       </a>
+      <a href="https://www.linux.org/" class="tech-item" title="Linux">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      </a>
       <a href="https://grafana.com" class="tech-item" title="Grafana">
         <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
       </a>
     </div>
   </div>
 
-  <!-- Ferramentas de Desenvolvimento -->
+  <!-- Ferramentas de Automação & Testes -->
   <div class="tech-section">
-    <h2>Ferramentas de Desenvolvimento</h2>
+    <h2>Ferramentas de Automação & Testes</h2>
     <div class="tech-grid">
       <a href="https://git-scm.com/" class="tech-item" title="Git">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -174,15 +180,18 @@
       <a href="https://www.selenium.dev" class="tech-item" title="Selenium">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
       </a>
-      <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
-      </a>      
+      <a href="https://zapier.com" class="tech-item" title="Zapier">
+        <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/>
+      </a>
+      <a href="https://www.rabbitmq.com" class="tech-item" title="RabbitMQ">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
+      </a>
     </div>
   </div>
 
-  <!-- Machine Learning & Data Science -->
+  <!-- Data Science & Machine Learning -->
   <div class="tech-section">
-    <h2>Machine Learning & Data Science</h2>
+    <h2>Data Science & Machine Learning</h2>
     <div class="tech-grid">
       <a href="https://www.tensorflow.org" class="tech-item" title="TensorFlow">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -199,9 +208,9 @@
     </div>
   </div>
 
-  <!-- Design & UI -->
+  <!-- Design & Prototipagem -->
   <div class="tech-section">
-    <h2>Design & UI</h2>
+    <h2>Design & Prototipagem</h2>
     <div class="tech-grid">
       <a href="https://www.figma.com/" class="tech-item" title="Figma">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -214,24 +223,7 @@
       </a>
     </div>
   </div>
-
-  <!-- Outros -->
-  <div class="tech-section">
-    <h2>Outros</h2>
-    <div class="tech-grid">
-      <a href="https://www.linux.org/" class="tech-item" title="Linux">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-      </a>
-      <a href="https://www.rabbitmq.com" class="tech-item" title="RabbitMQ">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-      </a>
-      <a href="https://appwrite.io" class="tech-item" title="Appwrite">
-        <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-      </a>
-    </div>
-  </div>
 </div>
-
 
 
 
