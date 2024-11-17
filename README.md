@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gustavo</h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=1FF72F&width=435&lines=%3EHi+%F0%9F%91%8B%2C+I%27m+Gustavo" alt="Typing SVG" />
+  </a>
+</div>
+
+
+
 <h3 align="center">A passionate Digital Marketeer from Brazil, living in Portugal.</h3>
 
 <div align="left" style="display: flex; align-items: center;">
@@ -62,6 +69,26 @@
 
 
 
+  <!-- Sistemas-section -->
+
+<div class="Sistemas-section">
+  <h2>Sistemas</h2>
+  
+  <p align="left">
+
+  <a href="https://www.apple.com/macos">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  </a>
+  <a href="https://www.microsoft.com/windows/windows-11">
+    <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="Windows 11" />
+  </a>
+
+    
+  </p>
+</div>
 
 
 <p align="center">
@@ -334,6 +361,42 @@
     <a href="https://scrapy.org/">
       <img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" />
     </a>
+    <a href="https://code.visualstudio.com">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+    </a>
+    <a href="https://gradle.org/">
+      <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle" />
+    </a>
+    <a href="https://www.home-assistant.io/">
+      <img src="https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white" alt="Home Assistant" />
+    </a>
+    <a href="https://about.fb.com/">
+      <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta" />
+    </a>
+    <a href="https://www.openapis.org/">
+      <img src="https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI Initiative" />
+    </a>
+    <a href="https://prettier.io/">
+      <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
+    </a>
+    <a href="https://swagger.io/">
+      <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+    </a>
+    <a href="https://trello.com/">
+      <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
+    </a>
+    <a href="https://www.twilio.com/">
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio" />
+    </a>
+    <a href="https://www.wireguard.com/">
+      <img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white" alt="Wireguard" />
+    </a>
+    <a href="https://about.google/">
+      <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+    </a>
+    <a href="https://httpd.apache.org/">
+      <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+    </a>
 
 
 
@@ -343,4 +406,61 @@
 
 
 
+
+  <!-- badges-section -->
+
+<div class="Social-section">
+  <h2>Social</h2>
+  
+  <p align="left">
+
+<a href="https://discord.com/">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://www.facebook.com/">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://mail.google.com/">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.goodreads.com/">
+  <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="Goodreads" />
+</a>
+<a href="https://www.instagram.com/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.messenger.com/">
+  <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="Messenger" />
+</a>
+<a href="https://www.pinterest.com/">
+  <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" />
+</a>
+<a href="https://www.reddit.com/">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
+<a href="https://telegram.org/">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://www.tiktok.com/">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+</a>
+<a href="https://www.whatsapp.com/">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+<a href="https://www.youtube.com/">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.threads.net/">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
+</a>
+
+
+
+
+    
+  </p>
+</div>
 
