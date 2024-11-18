@@ -12,11 +12,10 @@
   <a style="margin-right: 10px;">
     <img src="https://komarev.com/ghpvc/?username=gustavocs97&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocs97" />
   </a>
-  <a href="https://codepen.io/">
+  <a href="https://codepen.io/gustavocs97/">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
 </div>
-
 
 
 <div align="left">
