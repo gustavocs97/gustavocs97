@@ -44,7 +44,7 @@
 
 - 🌱 I’m currently learning new ways to build solutions **that uses automation mainly**
 
-- 📫 How to reach me? WhatsApp **🇵🇹 +351 967 091 156**
+- 📫 How to reach me? [gustavo@tuamarca.com](mailto:gustavo@tuamarca.com)
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
